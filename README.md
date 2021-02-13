@@ -1,5 +1,5 @@
 # Hi, I'm Marcin 👋
-I am a sotware developer who loves coffee, cats and code!
+I am a software developer who loves coffee, cats and code!
 ### Find me around the web 🕸️:
 - 📷 [Daily programming life and lots of knowledge](https://www.instagram.com/marcin.programuje/)
 - 🐦 [Find my tweets](https://twitter.com/marcinprogramu1)
